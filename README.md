@@ -1,3 +1,3 @@
 # fsm
 
-no any heap memory, nealy complete static, and tiny finit state machine
+no any heap memory, nearly complete static, and tiny finit state machine
